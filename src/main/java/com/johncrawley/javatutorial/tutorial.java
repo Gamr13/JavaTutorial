@@ -1,6 +1,8 @@
 /*
 UPLOADED ON: 31/1/2020
-UPDATES: NONES
+VERSION: 1.00
+AUTHOR: John M Crawley
+EDITOR: Aaron O'Hanlon
 */
 
 /*
@@ -9,11 +11,10 @@ UPDATES: NONES
 ==========================
 PLEASE READ THIS BEFORE LOOKING THROUGH THIS FILE:
 --------------------------------------------------
-I will be covering the basic programming in Java in this file, 
-these will surely be covered and some other things are extra part
-but also handy to know. You WILL be learning these at some point so might as well learn it early so you don't need to worry about it
-later.  
-
+In this file, I will cover the basics of Java programming.
+Some contents of this file will be extras, but most (if not all) is very likely to show up throughout the year.
+You WILL be learning these at some point, so you might as well learn it early. 
+ 
 You could always refer to this document as you go along in class.
 
 There will be notes through the file trying to explain
@@ -22,18 +23,12 @@ If you still don't understand something, try to look up what it is
 and if that still doesn't help you, P.M me or email me (email below).
 -----------
 
-Throughout this tutorial, I will ask you to do a few tasks for your own practice work. Do them if you'd like. 
-If you want more I can come up with more.
-I will tell you what you need and you try to figure out how to do it. 
-More you practice in Java, the more you will learn it.
-As Aaron's file is a demonstration of making a simple Java program, 
-this is a step-by-step guide with the basics with a deeper explanation.  
+Throughout this tutorial you will need to do a few tasks for practice. 
+You can always contact me if you want me to come up with more. 
+This file, unlike the sample ATM program that was posted will provide a step-by-step guide detailing everything as we go.
 
-Before you move onto ANYTHING else 
-LEARN the basics in Java 
-otherwise, you're running before you walk so learn the below 
-because there's so much to learn in programming,
-you will end up overwhelming yourself. 
+Before moving on in Java, you must learn the basics first. 
+Without nailing the basics, you will struggle later on. 
 ---------------
 - Classes                                   
 - Datatypes/variables       
@@ -44,11 +39,10 @@ you will end up overwhelming yourself.
 - Error handling                            
 ---------------
 
-I will try to make this as comprehensible as possible. 
-It is recommended to read and use this next to your java file.  
-This should cover this semester of programming otherwise I'll update 
-the file as it's hosted on GitHub, I can easily update this file at anytime
-and give notice on the Discord server when something new or updated has been added. 
+I will try to make this as comprehensible as possible.
+It's recommended to read this file whilst also programming in your own Java file. 
+If we cover something in class that is not in here, I will update this file. Be sure to check the GitHub page if we do.
+If there's something I missed, feel free to let us know in the Discord server. 
 
 You can join by this link:
 (https://discord.gg/GFknCp6)
@@ -123,7 +117,6 @@ import java.util.Scanner;
 /*
 Classes:
 -------
-I always find this hard to describe to people but:
 A class contains sets of methods and variables. 
 A class is like a blueprint to a car or house. 
 
